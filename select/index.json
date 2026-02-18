@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "しあわせレストラン",
+  "base_artist": "弌誠",
+  "createdAt": "2026-02-18T22:25:21.671328Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "しあわせレストラン",
+      "artist": "弌誠",
+      "has_synced": false,
+      "path": "select/pl_01_しあわせレストラン_弌誠.txt"
+    }
+  ]
+}
